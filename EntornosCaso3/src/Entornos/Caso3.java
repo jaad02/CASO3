@@ -13,7 +13,7 @@ public class Caso3 {
 		double resultado = areaTriangulo(lado1, altura);
 		System.out.println(resultado);
 		
-		//holaaaaaaaaaaaaaaa
+		//holaaaaaaaaaaaaaaa hicham
 		
 
 	}
