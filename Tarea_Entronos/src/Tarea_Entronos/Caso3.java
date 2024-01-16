@@ -42,5 +42,6 @@ public class Caso3 {
 	public static double perimetroCircunferencia(int radio) {
 		return Math.PI * (radio * 2);
 	}
+	//pon el siguiente public static
 
 }
