@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>EntornosCASO3</name>
+=======
+	<name>EntornosCaso3</name>
+>>>>>>> branch 'Juan' of https://github.com/jaad02/CASO3.git
 	<comment></comment>
 	<projects>
 	</projects>
